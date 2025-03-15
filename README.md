@@ -1,7 +1,68 @@
-uma calculadora simples de descontos em pagamento à vista e no crédito. calcula 10% à vista e 5% no crédito. feita em c++
+# 🛒 Calculadora de Desconto
 
-exemplos:
+Este projeto é um programa em C++ que calcula descontos aplicados em pagamentos à vista e no crédito. O programa aplica um desconto de 10% para pagamentos à vista e 5% para pagamentos no crédito.
 
-![Screenshot_1](https://github.com/jrlkfps/calculadora-de-desconto/assets/131707703/3865da0a-85ff-43e1-8f4d-02a80bb11362)
+## 📝 Descrição
 
-![Screenshot_2](https://github.com/jrlkfps/calculadora-de-desconto/assets/131707703/b3d22103-c096-48db-937a-d4204d2cde74)
+O programa solicita ao usuário que insira o valor do produto e escolha a forma de pagamento: à vista ou no crédito. Dependendo da escolha, o programa aplica o desconto correspondente e exibe o valor final a ser pago.
+
+## 🛠️ Como Compilar e Executar
+
+1. **📥 Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/joaopedrobn/calculadora-de-desconto.git
+   ```
+
+2. **📂 Navegue até o diretório do projeto:**
+
+   ```bash
+   cd calculadora-de-desconto
+   ```
+
+3. **⚙️ Compile o código-fonte:**
+
+   Utilize um compilador C++, como o `g++`, para compilar o arquivo `desconto.cpp`:
+
+   ```bash
+   g++ desconto.cpp -o calculadora_desconto
+   ```
+
+4. **▶️ Execute o programa:**
+
+   ```bash
+   ./calculadora_desconto
+   ```
+
+## 📋 Exemplo de Uso
+
+Ao executar o programa, você será solicitado a inserir o valor do produto e a forma de pagamento:
+
+```
+Digite o valor do produto: 100
+Escolha a forma de pagamento:
+1 - À vista (10% de desconto)
+2 - No crédito (5% de desconto)
+Opção: 1
+```
+
+O programa calculará e exibirá o valor final com o desconto aplicado:
+
+```
+Valor com desconto: 90
+```
+
+## 🖼️ Exemplos
+
+![Exemplo 1](https://github.com/joaopedrobn/calculadora-de-desconto/raw/main/Screenshot_1.png)
+*Aplicando 10% de desconto para pagamento à vista*
+
+![Exemplo 2](https://github.com/joaopedrobn/calculadora-de-desconto/raw/main/Screenshot_2.png)
+*Aplicando 5% de desconto para pagamento no crédito*
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+---
+📌 Para mais informações, visite o repositório original: [calculadora-de-desconto](https://github.com/joaopedrobn/calculadora-de-desconto).
