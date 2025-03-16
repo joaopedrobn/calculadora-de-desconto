@@ -52,9 +52,5 @@ O programa calculará e exibirá o valor final com o desconto aplicado:
 Valor com desconto: 90
 ```
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
 ---
 📌 Para mais informações, visite o repositório original: [calculadora-de-desconto](https://github.com/joaopedrobn/calculadora-de-desconto).
