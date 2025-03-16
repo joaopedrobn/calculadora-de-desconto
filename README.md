@@ -52,14 +52,6 @@ O programa calculará e exibirá o valor final com o desconto aplicado:
 Valor com desconto: 90
 ```
 
-## 🖼️ Exemplos
-
-![Exemplo 1](https://github.com/joaopedrobn/calculadora-de-desconto/raw/main/Screenshot_1.png)
-*Aplicando 10% de desconto para pagamento à vista*
-
-![Exemplo 2](https://github.com/joaopedrobn/calculadora-de-desconto/raw/main/Screenshot_2.png)
-*Aplicando 5% de desconto para pagamento no crédito*
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
